@@ -1,0 +1,35 @@
+2023-08-28 07:06:17,855 INFO    MainThread:2555804 [wandb_setup.py:_flush():76] Loading settings from /root/.config/wandb/settings
+2023-08-28 07:06:17,855 INFO    MainThread:2555804 [wandb_setup.py:_flush():76] Loading settings from /root/decentralizedAI_dermatology/wandb/settings
+2023-08-28 07:06:17,856 INFO    MainThread:2555804 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-08-28 07:06:17,856 INFO    MainThread:2555804 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'client_isic.py', 'program': 'client_isic.py'}
+2023-08-28 07:06:17,856 INFO    MainThread:2555804 [wandb_setup.py:_flush():76] Applying login settings: {'mode': 'offline'}
+2023-08-28 07:06:17,856 INFO    MainThread:2555804 [wandb_init.py:_log_setup():428] Logging user logs to /root/decentralizedAI_dermatology/wandb/offline-run-20230828_070617-24bektse/logs/debug.log
+2023-08-28 07:06:17,857 INFO    MainThread:2555804 [wandb_init.py:_log_setup():429] Logging internal logs to /root/decentralizedAI_dermatology/wandb/offline-run-20230828_070617-24bektse/logs/debug-internal.log
+2023-08-28 07:06:17,857 INFO    MainThread:2555804 [wandb_init.py:init():462] calling init triggers
+2023-08-28 07:06:17,858 INFO    MainThread:2555804 [wandb_init.py:init():465] wandb.init called with sweep_config: {}
+config: {'model': 'efficientnet-b2'}
+2023-08-28 07:06:17,858 INFO    MainThread:2555804 [wandb_init.py:init():515] starting backend
+2023-08-28 07:06:17,858 INFO    MainThread:2555804 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-08-28 07:06:17,880 INFO    MainThread:2555804 [backend.py:ensure_launched():217] starting backend process...
+2023-08-28 07:06:17,890 INFO    MainThread:2555804 [backend.py:ensure_launched():222] started backend process with pid: 2556122
+2023-08-28 07:06:17,893 INFO    MainThread:2555804 [wandb_init.py:init():525] backend started and connected
+2023-08-28 07:06:17,906 INFO    MainThread:2555804 [wandb_init.py:init():596] updated telemetry
+2023-08-28 07:06:18,032 INFO    MainThread:2555804 [wandb_init.py:init():662] starting run threads in backend
+2023-08-28 07:06:18,707 INFO    MainThread:2555804 [wandb_run.py:_console_start():1898] atexit reg
+2023-08-28 07:06:18,709 INFO    MainThread:2555804 [wandb_run.py:_redirect():1771] redirect: SettingsConsole.REDIRECT
+2023-08-28 07:06:18,710 INFO    MainThread:2555804 [wandb_run.py:_redirect():1776] Redirecting console.
+2023-08-28 07:06:18,714 INFO    MainThread:2555804 [wandb_run.py:_redirect():1832] Redirects installed.
+2023-08-28 07:06:18,715 INFO    MainThread:2555804 [wandb_init.py:init():688] run started, returning control to user process
+2023-08-28 07:06:18,720 INFO    MainThread:2555804 [wandb_run.py:_config_callback():1136] config_cb None None {'model': 'efficientnet-b2', 'log_interval': 100, 'epochs': 2, 'batch_train': 32, 'num_partitions': 20, 'partition': 0, 'gpu': 0, 'tags': 'Exp 5. FedBN', 'nowandb': False, 'path': './workspace/melanoma_isic_dataset', 'host': '192.168.22.165', 'port': '8080'}
+2023-08-28 07:07:09,613 INFO    MainThread:2555804 [wandb_run.py:_atexit_cleanup():1867] got exitcode: 255
+2023-08-28 07:07:09,618 INFO    MainThread:2555804 [wandb_run.py:_restore():1839] restore
+2023-08-28 07:07:12,119 INFO    MainThread:2555804 [wandb_run.py:_on_finish():1996] got exit ret: 
+2023-08-28 07:07:12,223 INFO    MainThread:2555804 [wandb_run.py:_on_finish():1996] got exit ret: 
+2023-08-28 07:07:12,327 INFO    MainThread:2555804 [wandb_run.py:_on_finish():1996] got exit ret: done: true
+exit_result {
+}
+local_info {
+}
+
+2023-08-28 07:07:13,534 INFO    MainThread:2555804 [wandb_run.py:_footer_history_summary_info():3104] rendering history
+2023-08-28 07:07:13,535 INFO    MainThread:2555804 [wandb_run.py:_footer_history_summary_info():3136] rendering summary

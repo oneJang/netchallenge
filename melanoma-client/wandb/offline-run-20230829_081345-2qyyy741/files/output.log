@@ -1,0 +1,466 @@
+load_isic_data() start!!
+CustomDataset class init!
+CustomDataset class init!
+CustomDataset len
+CustomDataset len
+load_isic_data() end!
+dataset load complete1!
+load_partition() start!
+load_partition() end!!
+dataset load complete2!
+load_isic_by_patient start!
+CustomDataset class init!
+CustomDataset len
+Train dataset: 1505, Val dataset: 376, Test dataset: 4987
+train_loader, val_loader, test_loader complete!
+class Client init
+client!
+fit() starts
+set_parameters() start
+set_parameters() end
+Starts training...!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+class Net's forward() starts
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+class Net's forward() ends
+CustomDataset getitem!
+class Net's forward() starts
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+class Net's forward() ends
+CustomDataset getitem!
+class Net's forward() starts
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+class Net's forward() ends
+CustomDataset getitem!
+class Net's forward() starts
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+CustomDataset getitem!
+class Net's forward() ends
+INFO flower 2023-08-29 08:13:56,380 | connection.py:102 | Opened insecure gRPC connection (no certificates were passed)
+DEBUG flower 2023-08-29 08:13:56,383 | connection.py:39 | ChannelConnectivity.IDLE
+DEBUG flower 2023-08-29 08:13:56,385 | connection.py:39 | ChannelConnectivity.CONNECTING
+DEBUG flower 2023-08-29 08:13:56,386 | connection.py:39 | ChannelConnectivity.READY
+DEBUG flower 2023-08-29 08:14:14,926 | connection.py:121 | gRPC channel closed
+Traceback (most recent call last):
+  File "client_isic.py", line 175, in <module>
+    fl.client.start_numpy_client(args.host + ":" + args.port, client)
+  File "/usr/local/lib/python3.8/dist-packages/flwr/client/app.py", line 173, in start_numpy_client
+    start_client(
+  File "/usr/local/lib/python3.8/dist-packages/flwr/client/app.py", line 94, in start_client
+    client_message, sleep_duration, keep_going = handle(
+  File "/usr/local/lib/python3.8/dist-packages/flwr/client/grpc_client/message_handler.py", line 61, in handle
+    return _fit(client, server_msg.fit_ins), 0, True
+  File "/usr/local/lib/python3.8/dist-packages/flwr/client/grpc_client/message_handler.py", line 117, in _fit
+    fit_res = client.fit(fit_ins)
+  File "/usr/local/lib/python3.8/dist-packages/flwr/client/numpy_client.py", line 227, in fit
+    results = self.numpy_client.fit(parameters, ins.config)
+  File "client_isic.py", line 103, in fit
+    self.model = utils.train(self.model, self.trainloader, self.valloader, self.num_examples, args.partition,
+  File "/root/decentralizedAI_dermatology/utils.py", line 503, in train
+    loss.backward()
+  File "/usr/local/lib/python3.8/dist-packages/torch/_tensor.py", line 487, in backward
+    torch.autograd.backward(
+  File "/usr/local/lib/python3.8/dist-packages/torch/autograd/__init__.py", line 200, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+  File "/usr/local/lib/python3.8/dist-packages/torch/autograd/function.py", line 264, in apply
+    def apply(self, *args):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "client_isic.py", line 175, in <module>
+    fl.client.start_numpy_client(args.host + ":" + args.port, client)
+  File "/usr/local/lib/python3.8/dist-packages/flwr/client/app.py", line 173, in start_numpy_client
+    start_client(
+  File "/usr/local/lib/python3.8/dist-packages/flwr/client/app.py", line 94, in start_client
+    client_message, sleep_duration, keep_going = handle(
+  File "/usr/local/lib/python3.8/dist-packages/flwr/client/grpc_client/message_handler.py", line 61, in handle
+    return _fit(client, server_msg.fit_ins), 0, True
+  File "/usr/local/lib/python3.8/dist-packages/flwr/client/grpc_client/message_handler.py", line 117, in _fit
+    fit_res = client.fit(fit_ins)
+  File "/usr/local/lib/python3.8/dist-packages/flwr/client/numpy_client.py", line 227, in fit
+    results = self.numpy_client.fit(parameters, ins.config)
+  File "client_isic.py", line 103, in fit
+    self.model = utils.train(self.model, self.trainloader, self.valloader, self.num_examples, args.partition,
+  File "/root/decentralizedAI_dermatology/utils.py", line 503, in train
+    loss.backward()
+  File "/usr/local/lib/python3.8/dist-packages/torch/_tensor.py", line 487, in backward
+    torch.autograd.backward(
+  File "/usr/local/lib/python3.8/dist-packages/torch/autograd/__init__.py", line 200, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+  File "/usr/local/lib/python3.8/dist-packages/torch/autograd/function.py", line 264, in apply
+    def apply(self, *args):
+KeyboardInterrupt

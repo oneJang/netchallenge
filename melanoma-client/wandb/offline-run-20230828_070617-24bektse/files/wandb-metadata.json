@@ -1,0 +1,22 @@
+{
+    "os": "Linux-5.4.0-137-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-08-28T07:06:18.651910",
+    "startedAt": "2023-08-28T07:06:17.849598",
+    "docker": null,
+    "cpu_count": 15,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "client_isic.py",
+    "codePath": "client_isic.py",
+    "git": {
+        "remote": "https://github.com/sancarlim/decentralizedAI_dermatology.git",
+        "commit": "29ed075e2b52c8f21ee2401df6eab9540351a9e7"
+    },
+    "email": null,
+    "root": "/root/decentralizedAI_dermatology",
+    "host": "client-1",
+    "username": "root",
+    "executable": "/usr/bin/python"
+}
